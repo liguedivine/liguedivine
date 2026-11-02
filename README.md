@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-2nd-year Engineering Student in Banking, Finance &amp; Insurance. Passionate about coding (Python), quantitative economics, and data analysis.
+2nd-year Engineering Student in Banking, Finance &amp; Insurance. Passionate about coding, quantitative economics, and data analysis.
 
 🔭 &nbsp;I'm currently working on **a progressive series of quantitative finance projects in Python. My development roadmap for this year includes:   Monte Carlo portfolio risk simulation, pairs trading strategy, simulating a Black-Scholes model and applying it to the BRVM (Bourse Régionale des Valeurs Mobilières) market.**  
 🌱 &nbsp;I'm currently learning **Strengthening my data and quantitative analysis stack on DataCamp:   Quantitative Analyst with R track (Building foundational coding skills in R from scratch)   and  Data Analyst with Python track (Already certified in Introduction to Python)**
